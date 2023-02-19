@@ -7,8 +7,9 @@
  
 A Simple python program used to train on a dataset and predict the language of input string.
 
-# INSTALLATION
-Portable Exe file is given in releases tab, Just download and open to run.
+# REQUIREMENTS
+All Dependencies in Dependencies.txt file
+Python 3.7 or later
 
 # Training
 This app uses the logistic regression Training algorithm to train on the specified dataset.

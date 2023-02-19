@@ -2,7 +2,6 @@ from tkinter import *
 import ctypes
 import pandas
 import string
-from sklearn import *
 from sklearn.model_selection import train_test_split
 from sklearn import feature_extraction
 from sklearn import pipeline
