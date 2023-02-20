@@ -1,4 +1,4 @@
-# LanguageDetector
+# Language Detector
 
 <p align = "center">
   <img title="Home" alt="Home Page of App" src="https://user-images.githubusercontent.com/113833707/219943138-089d05ae-53df-4696-8d2a-7b01eb386954.png">
