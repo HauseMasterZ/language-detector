@@ -8,7 +8,8 @@
 A Simple python program used to train on a dataset and predict the language of input string.
 
 # REQUIREMENTS
-All Dependencies in Dependencies.txt file
+All Dependencies in Dependencies.txt file  
+
 Python 3.7 or later
 
 # Training
