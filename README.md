@@ -13,7 +13,9 @@ A Simple python program used to train on a dataset and predict the language of i
 * Python 3.7 or later
 
 # Training
-This app uses the logistic regression Training algorithm to train on the specified dataset.
-The First column in the dataset must be all the different languages and the Second will be 
+This app uses the logistic regression Training algorithm to train on the specified dataset.  
+
+The First column in the dataset must be all the different languages and the Second will be   
+
 the corresponding language the text is in.
 
