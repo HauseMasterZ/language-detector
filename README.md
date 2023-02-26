@@ -17,5 +17,5 @@ This app uses the logistic regression Training algorithm to train on the specifi
 
 The First column in the dataset must be all the different languages and the Second will be   
 
-the corresponding language the text is in.
+the corresponding language names the text is in.
 
