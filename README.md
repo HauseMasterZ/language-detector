@@ -5,7 +5,7 @@
  </p>
 
  
-A Simple python program used to train on a dataset and predict the language of input string.
+A Simple python program used to train on a dataset and predict the language of input string
 
 # REQUIREMENTS
 * All Dependencies in Dependencies.txt file  
