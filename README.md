@@ -12,6 +12,7 @@ A Simple python program used to train on a dataset and predict the language of i
 
 
 
+
 # Training
 This app uses the logistic regression Training algorithm to train on the specified dataset  
 
